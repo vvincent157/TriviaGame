@@ -1,0 +1,8 @@
+#bkgrd{
+    background-image: url("assets/images/background.jpg");
+    background-repeat: no-repeat;
+}
+
+#elements{
+    background-color: pink;
+}
